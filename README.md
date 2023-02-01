@@ -1,1 +1,1 @@
-# private-share-test
+# public-share-test
